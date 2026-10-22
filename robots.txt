@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://tvremine.github.io/chiaras-cakes-and-more/sitemap.xml
